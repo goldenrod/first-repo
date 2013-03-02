@@ -1,4 +1,4 @@
 first-repo
 ==========
 
-This is going to be awesome! 
+This is going to be really, really awesome!
